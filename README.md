@@ -239,9 +239,13 @@ Engenharia de **SDR (Software Defined Radio)** com IA.
 
 ## 📊 Estatísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=geanderson-ai&show_icons=true&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=geanderson-ai&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geanderson-ai&layout=compact&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geanderson-ai&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
