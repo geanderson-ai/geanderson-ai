@@ -208,6 +208,35 @@ Engenharia de **SDR (Software Defined Radio)** com IA.
 
 ---
 
+## 📁 Outros Projetos
+
+### 📚 Documentação & Estudos
+
+- 📖 [**docs**](https://github.com/geanderson-ai/docs) - Documentação e materiais de estudo
+- 📝 [**mintlify-docs**](https://github.com/geanderson-ai/mintlify-docs) - Documentação técnica com Mintlify
+- 🎓 [**Data-Science-for-Marketing-Analytics**](https://github.com/geanderson-ai/Data-Science-for-Marketing-Analytics) - Analytics de marketing com Python
+
+### 🧪 Projetos Experimentais
+
+- 🏭 [**machine_learning_industry**](https://github.com/geanderson-ai/machine_learning_industry) - ML para aplicações industriais
+- 🦎 [**Kambara**](https://github.com/geanderson-ai/Kambara) - Projeto experimental em Python
+- ⚡ [**sb1-vduh76**](https://github.com/geanderson-ai/sb1-vduh76) - Projeto StackBlitz experimental
+- ⚖️ [**ErgaOmnes-GPT**](https://github.com/geanderson-ai/ErgaOmnes-GPT) - Exploração de GPT para análise jurídica
+
+### 🔧 DevOps & CI/CD
+
+- 🚀 [**starter-beta-test**](https://github.com/geanderson-ai/starter-beta-test) - Testes beta com Terraform/HCL
+- 🏗️ [**starter-build-test**](https://github.com/geanderson-ai/starter-build-test) - Pipeline de build e testes
+- 🔄 [**CICD_Evaluation**](https://github.com/geanderson-ai/CICD_Evaluation) - Avaliação de ferramentas CI/CD
+
+### 📦 Forks & Contribuições
+
+- 🆚 [**newshiny-vscodium**](https://github.com/geanderson-ai/newshiny-vscodium) - VS Code sem telemetria Microsoft
+- 📡 [**evolution-api**](https://github.com/geanderson-ai/evolution-api) - API de integração WhatsApp
+- 🎙️ [**livekit-assistant**](https://github.com/geanderson-ai/livekit-assistant) - Assistente de voz com LiveKit
+
+---
+
 ## 📊 Estatísticas
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=geanderson-ai&show_icons=true&theme=dark&hide_border=true)
