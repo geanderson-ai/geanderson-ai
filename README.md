@@ -18,6 +18,45 @@ Desenvolvedor apaixonado por **IA**, **Machine Learning** e **Engenharia de Soft
 
 ---
 
+## 🔥 Top Projetos de IA
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧵 [Fabrick](https://github.com/geanderson-ai/fabrick)
+
+Framework para orquestração de agentes de IA com arquitetura modular e extensível.
+
+</td>
+<td width="50%">
+
+### 🛡️ [NGFW](https://github.com/geanderson-ai/ngfw)
+
+Next Generation Firewall com inteligência artificial para detecção de ameaças.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏗️ [Agent Builder Blueprint](https://github.com/geanderson-ai/agent-builder-blueprint)
+
+Blueprint completo para construção de agentes de IA escaláveis e production-ready.
+
+</td>
+<td width="50%">
+
+### 🔀 [Semantic AI Router](https://github.com/geanderson-ai/semantic-ai-router)
+
+Roteador semântico inteligente para direcionamento dinâmico de requisições em sistemas de IA.
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🚀 Projetos em Destaque
 
 ### 🤖 Inteligência Artificial & Agentes
